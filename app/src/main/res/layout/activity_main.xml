@@ -9,7 +9,7 @@
     <com.chiemy.widget.pop.popdemo.SparkView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#626322"
+        android:background="#345678"
         />
 
 
